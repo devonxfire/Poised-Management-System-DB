@@ -63,7 +63,7 @@ The program starts off with the below steps:
 
 ### Summary
 
-As OOP is such a vital part of java programming, it was good to work on this project. I was happy about the integration of using the MySQL Workbench datase system.
+As OOP is such a vital part of java programming, it was good to work on this project. I was happy about the integration of using the MySQL Workbench database system.
 
 
 
